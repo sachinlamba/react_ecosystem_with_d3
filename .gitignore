@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# build
+/dist/app.bundle.js
+
+# misc
+.DS_Store
+npm-debug.log

@@ -1,0 +1,26 @@
+{
+  "name": "react_ecosystem_with_d3",
+  "version": "1.0.0",
+  "description": "first i will be creating react ecosystem step-by-step(https://www.codementor.io/arnavaggrwl/react-ecosystem-setup-step-by-step-walkthrough-9pfb8fpsa) and then use this boilerpoint to learn d3.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LambaG",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^4.12.2",
+    "express": "^4.16.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.19.1",
+    "webpack": "^3.10.0"
+  }
+}
